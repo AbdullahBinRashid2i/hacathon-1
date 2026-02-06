@@ -21,9 +21,7 @@ const config: Config = {
   organizationName: 'your-github-username',
   projectName: 'humanoid-robotics-academy',
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-
+  
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
